@@ -1,0 +1,7 @@
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\bin\Debug\Delegaten_Test.exe.config
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\bin\Debug\Delegaten_Test.exe
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\bin\Debug\Delegaten_Test.pdb
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\obj\Debug\Delegaten_Test.csproj.AssemblyReference.cache
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\obj\Debug\Delegaten_Test.csproj.CoreCompileInputs.cache
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\obj\Debug\Delegaten_Test.exe
+I:\Programieren Straten\C# Masterkurs\Modul 17 Delegaten\Delegaten_Test\Delegaten_Test\obj\Debug\Delegaten_Test.pdb
